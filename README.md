@@ -5,6 +5,15 @@
 `git`에 의해 버전관리가 되고 있는 `저장소`의 루트 디렉토리(`/`) 내에 현재 `README.md` 파일을 제외한<br />
 나머지 **`ISSUE_TEMPLATE`**, **`PULL_REQUEST_TEMPLATE.md`** 폴더와 파일을 그대로 추가해 주시면 됩니다.
 
+## Issue 템플릿 적용 후
+https://user-images.githubusercontent.com/56868605/219275636-438bde1d-8e2b-42c9-929e-935f4fe5b06d.mov
+
+## Pull request 템플릿 적용 후
+
+https://user-images.githubusercontent.com/56868605/219277439-105d8e28-04b9-4400-9a66-1905689f818c.mov
+
+---
+
 &nbsp;
 ### **`ISSUE_TEMPLATE/bug.md`**
 
