@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/56868605/219275636-438bde1d-8e2b-42c9-
 
 ## Pull request 템플릿 적용 후
 
-https://user-images.githubusercontent.com/56868605/219277439-105d8e28-04b9-4400-9a66-1905689f818c.mov
+https://user-images.githubusercontent.com/56868605/219558002-41d833d3-3614-45c8-9547-513a756d24c7.mov
 
 ---
 
